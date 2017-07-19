@@ -8,7 +8,8 @@
     "types": [
       "jasmine",
       "node"
-    ]
+    ],
+    "noUnusedLocals": true
   },
   "files": [
     "test.ts"
